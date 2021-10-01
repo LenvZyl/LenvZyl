@@ -1,8 +1,8 @@
 - Hi, I’m @LenvZyl
 - I’m interested in :
-    All things mobile development related     
+  - All things mobile development related     
 - How to reach me :
-    https://www.linkedin.com/in/len-x/
+  - https://www.linkedin.com/in/len-x/
 - My Stack :
   - Flutter/Dart
   - Swift
